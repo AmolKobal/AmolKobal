@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Amol Anant Kobal's Page.
 
-You can use the [editor on GitHub](https://github.com/AmolKobal/AmolKobal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Total **13 years** of working experience in _development of Windows and Web Based applications_ in **Banking and Finance Domain**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience Summary:  
+- Proficient in working on C#.Net, VB.Net, ASP.Net, MVC, ADO.Net, SQL Server.
+Good hands on and working knowledge of creation of windows & web forms applications.
+Working knowledge of .NET Core, ASP.NET Core, WCF, WEB API.
+- Practiced at mapping client requirements into functional and technical documents, providing custom designing solutions as per business requirements.
+- Ability to deliver results on multiple tasks by effectively managing time and priority as per need.
+- 	Understanding of SDLC, Agile, Scrum and practical implementation into project deliveries. 
+- Good communication and interpersonal skills with abilities in resolving issues and troubleshooting for complex software systems. Hardworking, Team Player, and committed to the work.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Technical skills:
+- Languages		: C#, VB.NET, Python, VB6.0, Transact SQL, TypeScript, Angular, Node.js, .NET Core.
+- Databases		: MS SQL Server, MongoDB. 
+- Web 			: ASP.NET, ASP.NET MVC, Web API, ASP.NET Core, JavaScript, JQuery.
+- Tools			: Visual Studio/Code, HP ALM, Control-M, Putty, Git, IBM RTC, Tortoise SVN, BitBucket, SSRS
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Profiles:
+- [LinkedIn](https://www.linkedin.com/in/amol-kobal-6b234817/)
+- [Great Learning](https://olympus1.greatlearning.in/mygreatlearning/amol-anant-kobal) 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmolKobal/AmolKobal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact:
+[amol_kobal@rediffmail.com](mailto:amol_kobal@rediffmail.com)
